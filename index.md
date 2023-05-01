@@ -112,7 +112,7 @@ img {
 <div class="titleText">
 The aim of this meta analysis is to study the effectiveness of gamified interventions in promoting mental health. The variables used to measure mental health were: Mental Wellness (subjective well-being and quality of life) and Psychological Symptoms (anxiety and depressive symptoms). For this purpose, 42 studies were analysed and the general effect size was estimated, as well as particular effect sizes. 
 
-  
+   <p> </p>
  
   </div>
 </div>
@@ -159,16 +159,23 @@ The aim of this meta analysis is to study the effectiveness of gamified interven
 <div class="sectionTextBox">
 <div class="sectionText">
 
-  
+   <p> </p>
+   <p> </p>
+   <p> </p>
   <b>Introduction</b>
   
 </div>
 <div class="sectionText">
 Technology is spreading and evolving around the world, with the number of users becoming higher every day. 40% of the world's population are active gamers and the number of old adult gamers have grown significantly. Therefore, the amount of users, advances in technology and increase use of mobile technology are definetely signs of a huge potential of gamified interventions. That potential is undeniable, but what about its effectiveness?
   As it reaches so many people, professionals started to explore its potencial for enhancing people’s motivation to engage in interventions so as to strengthen intervention effectiveness in health promotion.
+  <p> </p>
+<p> There are two concepts that are important to distinguish: "playfullness" and "gamefullness". The "playfullness" aspect of the game is what causes more concern, as games can become addictive and encourage excessive gaming. A more significant factor is "gamefulness," which is produced by activities or game aspects that involve formal play and are constrained by rules and arbitrary barriers (Cheng & Chau, 2022). To differentiate it from free play, gamification is characterized as serious play or serious gaming.</p>
+   <p> </p>
+  <b>Contribution of gamification to mental health: a 3 stage process</b>
 
-<p></p>
-<p> There are two concepts that are important to distinguish: "playfullness" and "gamefullness"   </p>
+  <b>Stage 1 - Motivational affordances of gamification</b>
+  This first stage is 
+  
 </div>
 </div>
 
