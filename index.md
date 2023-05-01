@@ -221,9 +221,14 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <b>How do we evaluate this study?</b>
 </div>
 <div class="sectionText">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+In order to evaluate the quality of this meta-analysis, we have chosen to follow the MAGIC criteria:
 <p></p>
-<p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+<p> Magnitude: the real effect size was small to medium. 
+Articulation: could be more specific. The study loses some specificity in order to achieve higher generalisability. 
+Generality: the study addresses people from multiple countries, both sexes, various age range, clinical and non-clinical samples. The authors acknowledge the need for further research in order to make games for specific demographics, however, it is clear that the results are generalisable. 
+Interestingness: in a world where we get more and more games claiming to improve mental health, the results of this meta-analysis are critical.
+Credibility: the claims made are based on findings, not out of thin air. The authors acknowledge where there still lies a need for more research. 
+ </p>
 </div>
 </div>
 
@@ -234,12 +239,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 [comment]: # (Text Box of a section)
 <div class="sectionTextBox">
 <div class="sectionText">
-<b>Conclusion for teaching practice</b>
+<b>Conclusion</b>
 </div>
 <div class="sectionText">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+The results of this meta-analytic review does bear some weight for nearly everyone. First of all it concerns mental health workers. The proof of the effectiveness of gamified interventions would mean that they can safely use this method in their practice. The second concerned group is the IT and game developers together with potential investors in these programs. For them, evidence provided by this meta-analysis means that the market for gamified mental health apps and programs will keep steadily growing. Lastly, these findings are relevant to anyone who has a phone and either wants to reduce negative mental health issues or to improve their overall mental well-being. In a fast paced modern world with growing awareness for mental health, that may potentially mean all of us. 
 <p></p>
-<p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+<p> While it is abundantly clear more research is needed on this topic, especially on how to make interventions for different demographics, the results of this meta-analysis show that gamified interventions are a functioning and promising tool for bolstering community mental health. Contrary to popular belief, results showed that games can be an effective intervention not only for children and adolescents, but also for adults and the elderly. In some cases, specifically non-clinical samples, gamified interventions worked better than traditional therapy. The authors suggest that gamified apps may be an excellent supplementary tool for people already working on their mental health. Either way, two things are clear: gamified interventions do have some significant effect and more research is needed to figure out the intricacies of this tool. 
+ </p>
 </div>
 </div>
 
@@ -270,9 +276,12 @@ Rita's study: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam 
 <b>References</b>
 </div>
 <div class="sectionText">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+de la Barrera, U., Mónaco, E., Postigo-Zegarra, S., Gil-Gómez, J. A., & Montoya-Castilla, I. (2021). EmoTIC: Impact of a game-based social-emotional programme on adolescents. Plos one, 16(4), e0250384.
 <p></p>
-<p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+<p> Cheng, C., & Ebrahimi, O. V. (2023). A meta-analytic review of gamified interventions in mental health enhancement. Computers in Human Behavior, 141, 107621.</p>
+  <p></p>
+  <p>Kiili, K., & Ketamo, H. (2017). Evaluating cognitive and affective outcomes of a digital game-based math test. IEEE transactions on learning technologies, 11(2), 255-263.
+</p>
 </div>
 </div>
 
