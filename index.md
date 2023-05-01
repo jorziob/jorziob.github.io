@@ -223,11 +223,11 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <div class="sectionText">
 In order to evaluate the quality of this meta-analysis, we have chosen to follow the MAGIC criteria:
 <p></p>
-<p> Magnitude: the real effect size was small to medium. 
-Articulation: could be more specific. The study loses some specificity in order to achieve higher generalisability. 
-Generality: the study addresses people from multiple countries, both sexes, various age range, clinical and non-clinical samples. The authors acknowledge the need for further research in order to make games for specific demographics, however, it is clear that the results are generalisable. 
-Interestingness: in a world where we get more and more games claiming to improve mental health, the results of this meta-analysis are critical.
-Credibility: the claims made are based on findings, not out of thin air. The authors acknowledge where there still lies a need for more research. 
+<p> Magnitude: the real effect size was small to medium. </p>
+<p>Articulation: could be more specific. The study loses some specificity in order to achieve higher generalisability. </p>
+<p>Generality: the study addresses people from multiple countries, both sexes, various age range, clinical and non-clinical samples. The authors acknowledge the need for further research in order to make games for specific demographics, however, it is clear that the results are generalisable. </p>
+<p>Interestingness: in a world where we get more and more games claiming to improve mental health, the results of this meta-analysis are critical.</p>
+<p>Credibility: the claims made are based on findings, not out of thin air. The authors acknowledge where there still lies a need for more research. </p>
  </p>
 </div>
 </div>
