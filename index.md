@@ -111,22 +111,27 @@ img {
 <div class="titleTextContent">
 <div class="titleText">
 The aim of this meta analysis is to study the effectiveness of gamified interventions in promoting mental health. The variables used to measure mental health were: Mental Wellness (subjective well-being and quality of life) and Psychological Symptoms (anxiety and depressive symptoms). For this purpose, 42 studies were analysed and the general effect size was estimated, as well as particular effect sizes. 
-</div>
+
+  
+ 
+  </div>
 </div>
 
 [comment]: # (Header of a section with a horizontal line)
 <div class="sectionHeader">
-  METAANALYSIS
+
   <div class="horizontalLine"> </div>
 </div>
 
 [comment]: # (Text Box of a section)
 <div class="sectionTextBox">
 <div class="sectionText">
-<b>Lorem ipsum</b> dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+
+  
+
 </div>
 <div class="sectionText">
-<b>Lorem ipsum</b> dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+
 </div>
 </div>
 
@@ -153,12 +158,17 @@ The aim of this meta analysis is to study the effectiveness of gamified interven
 [comment]: # (Text Box of a section)
 <div class="sectionTextBox">
 <div class="sectionText">
-<b>Introduction</b>
+
+  
+  <b>Introduction</b>
+  
 </div>
 <div class="sectionText">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+Technology is spreading and evolving around the world, with the number of users becoming higher every day. 40% of the world's population are active gamers and the number of old adult gamers have grown significantly. Therefore, the amount of users, advances in technology and increase use of mobile technology are definetely signs of a huge potential of gamified interventions. That potential is undeniable, but what about its effectiveness?
+  As it reaches so many people, professionals started to explore its potencial for enhancing people’s motivation to engage in interventions so as to strengthen intervention effectiveness in health promotion.
+
 <p></p>
-<p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+<p> There are two concepts that are important to distinguish: "playfullness" and "gamefullness"   </p>
 </div>
 </div>
 
