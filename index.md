@@ -110,7 +110,7 @@ img {
 [comment]: # (Text below the title)
 <div class="titleTextContent">
 <div class="titleText">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+The aim of this meta analysis is to study the effectiveness of gamified interventions in promoting mental health. The variables used to measure mental health were: Mental Wellness (subjective well-being and quality of life) and Psychological Symptoms (anxiety and depressive symptoms). For this purpose, 42 studies were analysed and the general effect size was estimated, as well as particular effect sizes. 
 </div>
 </div>
 
