@@ -47,12 +47,12 @@ img {
   text-align: left;
   font-size: 35px;
   font-weight: 500;
-  color: #002FBD;
+  color: #FFFFFF;
   line-height: 45px;
 }
 .horizontalLine {
   width: 100%;
-  border-top:4px solid #002FBD; 
+  border-top:4px solid #FFFFFF; 
   padding-bottom: 10px;
 }
 .sectionTextBox {
@@ -71,7 +71,7 @@ img {
   padding: 10px;
 }
 .downloadContainer {
-  background-color: #89CFF0;
+  background-color: #535d6b;
   height: 150px;
   width: 100%;
   color: white;
@@ -79,7 +79,7 @@ img {
   text-align: center;
 }
 .downloadbutton {
-  background-color: #002FBD;
+  background-color: #535d6b;
   border: 5px solid white;
   border-left: 50px solid white;
   border-right: 50px solid white;
@@ -91,7 +91,7 @@ img {
   border-radius: 25px;
 }
 .downloadbutton:hover {
-  background-color: #E2C838;
+  background-color: #535d6b;
 }
 </style>
 
