@@ -71,7 +71,7 @@ img {
   padding: 10px;
 }
 .downloadContainer {
-  background-color: #002FBD;
+  background-color: #89CFF0;
   height: 150px;
   width: 100%;
   color: white;
