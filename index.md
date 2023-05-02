@@ -328,6 +328,7 @@ The results of this meta-analytic review does bear some weight for nearly everyo
 <div class="sectionTextBox">
 <div class="sectionText">
 <b>Study example</b>
+  <p></p>
 </div>
 <div class="sectionText">
   <b>Individual studies examples:</b>
@@ -339,7 +340,7 @@ The results of this meta-analytic review does bear some weight for nearly everyo
   This study is important as it shows evidence that the game-based assessment approach might work well in math education with respect to both cognitive and affective outcomes. It is a step forward on the education evolution, as it showed to be more appealing to the students, improving their concetration and engagement during tests performance (the flow state provides this abilities) while reducing test anxiety.
  <p></p>
 
-  Jorūnė Žiobaitė:<b>EmoTIC: Impact of a game-based social-emotional programme on adolescents</b>
+  Jorūnė Žiobaitė: <b>EmoTIC: Impact of a game-based social-emotional programme on adolescents</b>
 <p> In de la Barrera et al. (2021) study, the researchers used gamified intervention in hopes to improve the emotional intelligence and self-esteem of teenagers. For this purpose they created a spaceship themed game in accordance with Mayer and Salovey's model of emotional intelligence. Over 200 adolescents aged 11-15 years participated in randomized control trials that lasted for over a month. Before and after the intervention, the students also filled out questionnaires estimating their emotional intelligence, self-esteem, affect balance, prosocial behavior, emotional, behavioral or peer difficulties and anxiety, depression, and stress. In the end, the results showed that adolescents' self-esteem and behavioral problems did improve, while their emotional intelligence did not. 
  </p>
 </div>
