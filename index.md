@@ -174,7 +174,96 @@ Technology is spreading and evolving around the world, with the number of users 
   <b>Contribution of gamification to mental health: a 3 stage process</b>
 
   <b>Stage 1 - Motivational affordances of gamification</b>
-  This first stage is 
+  <p> </p>
+  Gamification uses gameful strategies to enhance users’ motivation to play and, most importantly to adhere to its regimen. This engagement can be explained by the principles of the Self Determination Theory (Deci & Ryan, 2004). There are three innate psychological needs that games can promote to individuals: autonomy, competence and relatedness which will generate psychological growth and well-being, as well as motivation.
+  <p> </p>
+  1. Autonomy: To fulfil this users’ need, some interventions are self-administered, allowing the users to do this intervention at their own pace. An example of this, is an application called “Breeze” that has a mechanism that captures the pace of the breathing and therefore provides real-time visual information and guidance, so the user can adjust to the ideal breathing pace at their own time and training schedule. Biofeedback-driven visualization, together with a wide range of choices (e.g., difficulty levels, challenges), can boost users’ sense of control and self-efficacy. 
+ <p> </p>
+  2. Competence: The fulfilment of this need is related to the reward system. The “SmartCAT” app, focused on anxiety management in children gives users motivation thru reinforcing their feelings of competence. Once young users have mastered an emotion regulation skill, a motivational message appears, and the reward bank shows the number of points gained in that round and the number of additional points required to receive prizes.
+
+  Implementing this reinforcement schedule motivates users to comply with the treatment regimen in order to gain more significant rewards, and this strategy has been shown effective in reducing dropout. Users feel a sense of purpose for their participation and concrete feedback reflecting their accomplishments, helping to fulfil their need for competence (see e.g., Gilmore et al., 2015).
+ <p> </p> 
+  3. Relatedness: Some games use strategies to facilitate social learning. These strategies are guided by social learning theory (Bandura, 1986) and can use both vicarious and observational learning in eliciting psychological and behavioural changes.
+
+  Using avatars and pedagogical agents, some gamified interventions adopt this theoretical approach to facilitate training in first- and second-person virtual game settings. Avatars can represent themselves (i.e., vicarious learning) and regard other avatars as role models for behavioural imitation (i.e., observational learning). 
+
+  
+Competition with other teams fosters a sense of belonging among ingroup members, and cooperation within a team makes task completion more meaningful and motivates ingroup members to strive for group goals (van Roy & Zaman, 2019).
+
+  Users tend to feel connected and valued when participating in these gamified social activities, which meets their need for relatedness (Xi & Hamari, 2019).
+ <p> </p> 
+  <b>Stage 2 - Psychological and physiological changes in gamified intervention settings</b>
+   <p> </p> 
+  When individuals are motivated to actively engage in interventions and comply to its regimens, several cognitive, affective, and physiological changes can be observed in the gamified intervention setting.
+“SPARX” is a game that uses CBD principles for treating depressive symptoms incorporated in the game environment. Users perform these strategies in a fantasy world, ina a safe, controlled environment.
+
+  Playing in a fantasy world generates a “flow state” characterized by deep concentration, where individuals become so immersed in their experience that they tend to lose self-awareness and track of time (Csikszentmihalyi, 2008). When users experience this state of flow, they are able to set aside their sources of depression in real life and focus on the intervention to treat their cognitive, emotional, and psychosomatic symptoms.
+
+  VR can proportionate amazing conditions for these in-game changes to happen, due to its amount of immersiveness, as users are navigating under their control, just as if it were real. It functions as a “training ground” to practice their acquired skills in a sheltered, controlled environment in order to bring psychological and physiological changes (e.g., Avramenko, 2012).
+  <p> </p> 
+   <b>Stage 3 - Target outcome changes in real life</b>
+   <p> </p>
+  Desirable changes in the second stage lay a solid ground for attaining real-life target outcomes in the final stage. Involve a gradual transition in approaching a specific outcome in a controlled, game environment before an actual encounter in the real world.
+
+  An app for training public speech invites users to perform this transition. After habituation to or inhibition over the fear responses has taken place in the virtual game world, users are transited to in-vivo exposure for real-life skill applications. 
+
+  The close resemblance between virtual and real environments facilitates knowledge transfer to daily life.
+
+  When the game is focused on simpler daily-life problems (e.g., physical exercise, diet control), users are usually instructed to directly apply the gamified features and activities to their daily routines.
+ <p> </p>
+   <p> </p>
+  <b>Aim of this Meta-analysis:</b>
+  The mental health benefits of gamified interventions have been evaluated in diverse age cohorts across a wide range of cultural regions in diverse settings, such as healthcare, education, and corporate training (Yang & Li, 2021). Moreover, with the advances in mobile technologies, a myriad of mobile applications has emerged. This meta-analysis is a powerful statistical technique that has been widely adopted for addressing such heterogeneity in the literature.
+To evaluate the mental health benefits of gamified interventions, two factors were taken as measures of mental health, according to the mental health definition of the World Health Organization: mental wellness and psychological symptoms.
+
+  After obtaining a pool of relevant studies, a meta-analysis was conducted to summarize the findings of studies to estimate the overall effect size, which determines the standardized mean differences between the two groups’ (intervention vs. control group) mental health scores obtained at a post-intervention phase. 
+heterogeneous effects were inevitable because the data were pooled from diverse studies.
+
+  One possible source of heterogeneity is study characteristics that may moderate the magnitude of the overall effect size. Many studies have employed a randomized controlled trial (RCT) design, which is widely regarded as the “gold standard” design for studies that aim to evaluate intervention effectiveness. Studies may differ greatly in the duration of their gamified intervention and the duration of their follow-up period.
+
+  Another possible source of heterogeneity is game characteristics. Apart from mental health enhancement, some other games focus on promoting physical fitness and health, or educational games to facilitate learning or mitigate test anxiety.
+
+  A third possible source of heterogeneity is sample characteristics. Based on the empirical evidence, it is reasonable to infer that different sex, age, cultural, and clinical groups may exhibit different levels of receptiveness to and performance in gamified interventions, and thus intervention outcomes may vary with these sample characteristics.
+
+  The type of control group is different between studies. Some used na active control grupo, that are having another kind of therapy at the same time, while others used na inactive control group, therapy-absent. 
+
+  The samples of studies also differ in their demographic backgrounds. A phenomeno to take in count is the digital divide, which refers to the disparity among people’s levels of access to and use of IT due to differences between demographics and geographic location.
+
+  Male and female gamers have been found to differ considerably in their psychological responses and performance in an array of gaming activities.
+
+  Gamified interventions have been applied in not only clinical populations (e.g., patients with psychiatric disorders, patients having physical health problems) but also non-clinical ones (e.g., students, community adults).
+  <p> </p>
+   <p> </p>
+  <b>Methods</b>
+  <p> </p>
+  Eligibility Criteria: Studies that used at least 1 game to promote Mental Wellness, mitigate Mental Problems or both.
+
+  A “game” was defined as any gaming program, software, system, or mobile application used on an IT device.
+Studies were excluded if they (a) did not contain quantitative data from a primary source, (b) did not evaluate games, (c) did not use quantitative measures to assess mental wellness or problems, (d) did not include a control group for comparison, (e) involved only a single time-point (i.e., had a cross-sectional design), (f) did not provide enough data or statistics to enable the calculation of effect sizes, or (g) were not available in full text versions.
+  
+The meta-analysis was conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines.
+
+  Search: 28 Databases; Search terms (e.g., “gamification” x “mental wellbeing”)
+
+  Data Items: Specifically, this meta-analysis examined two major indicators of psychological wellness: subjective well-being (affective components: happiness and positive affect; cognitive components: life satisfaction and self-esteem/efficacy) and quality of life. It also examined two major indicators of psychological problems: anxiety symptoms (anxiety, panic, and stress) and depressive symptoms (depression and hopelessness)
+
+  Outcomes: Assessed in terms of the standardized mean difference between posttest outcomes score (Gamification group vs. Control group).
+
+  In addition to these analysed parameters, study, game, and sample characteristics were extracted from the eligible studies.
+After coding the studies, cultural moderators were recorded for the nation of origin of all samples recruited in the pool of eligible reports. The values of the four widely adopted cultural dimensions—individualism, power distance, masculinity, and uncertainty avoidance.
+
+
+  Effect Size Measures: As researchers often reported more than one effect size in a study, a multilevel meta-analysis was conducted to solve the problem of nonindependence Three levels were used: Participants effect sizes, comparison of outcomes  variables within the independent samples and the third level represented a comparison between the independent samples.
+
+  Positive effect size value:  Gamification Outcomes > Control
+
+
+  To verify the stability of the meta-analysis results: Leave one out method- whether the magnitude of the overall effect size and the level of significance changed when a meta-analysis of studies was performed on the set of studies with one study omitted at a time.
+
+
+  Bias Assessment: in 6 domains, using the Cochrane risk-of-bias tool. The risk of bias due to selective publication was assessed using several widely adopted statistical techniques.
+
+
   
 </div>
 </div>
@@ -186,12 +275,10 @@ Technology is spreading and evolving around the world, with the number of users 
 [comment]: # (Text Box of a section)
 <div class="sectionTextBox">
 <div class="sectionText">
-<b>What is this study about?</b>
+
 </div>
 <div class="sectionText">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
-<p></p>
-<p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+
 </div>
 </div>
 
@@ -259,9 +346,16 @@ The results of this meta-analytic review does bear some weight for nearly everyo
 <b>Study example</b>
 </div>
 <div class="sectionText">
-Rita's study: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
-  Labas krabas tatata
+  <b>Individual studies examples:</b>
+  Rita Fontes:<b>Evaluating Cognitive and Affective Outcomes of a Digital Game-Based Math Test</b>
 <p></p>
+  In Kiili & Ketamo (2018) study, a game-based Math Test - Conceptual fraction knowledge
+
+Differences between game-based and paper-based tests:
+Cognitive Outcomes
+Affective Outcomes (Flow, Anxiety)
+
+  
 <p> In de la Barrera et al. (2021) study, the researchers used gamified intervention in hopes to improve the emotional intelligence and self-esteem of teenagers. For this purpose they created a spaceship themed game in accordance with Mayer and Salovey's model of emotional intelligence. Over 200 adolescents aged 11-15 years participated in randomized control trials that lasted for over a month. Before and after the intervention, the students also filled out questionnaires estimating their emotional intelligence, self-esteem, affect balance, prosocial behavior, emotional, behavioral or peer difficulties and anxiety, depression, and stress. In the end, the results showed that adolescents' self-esteem and behavioral problems did improve, while their emotional intelligence did not. 
  </p>
 </div>
