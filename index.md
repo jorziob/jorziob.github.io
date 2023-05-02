@@ -347,14 +347,14 @@ The results of this meta-analytic review does bear some weight for nearly everyo
 </div>
 <div class="sectionText">
   <b>Individual studies examples:</b>
-  Rita Fontes:<b>Evaluating Cognitive and Affective Outcomes of a Digital Game-Based Math Test</b>
+  <p></p>
+  Rita Fontes: <b>Evaluating Cognitive and Affective Outcomes of a Digital Game-Based Math Test</b>
 <p></p>
-  In Kiili & Ketamo (2018) study, a game-based Math Test - Conceptual fraction knowledge
-
-Differences between game-based and paper-based tests:
-Cognitive Outcomes
-Affective Outcomes (Flow, Anxiety)
-
+  In Kiili & Ketamo (2018) study, a game-based Math Test assessed the students conceptual fraction knowledge. The aim of this study was to investigate the differences between game-based and paper-based tests regarding cognitive outcomes and affective outcomes (flow,anxiety). 51 Finnish 6th graders completed both paper-based and game-based math tests.
+  The results indicate that the game-based test scores correlated significantly with the paper-based test scores suggesting that the game-based assessment was successfully implemented and the game provided comparable data with the paper-based test approach. Game-based assessment lowered test anxiety and increased engagement which is likely to decrease assessment bias caused by test anxiety.
+  Earlier playing experience and gender did not influence the game-based test score suggesting fairness of the game-based assessment approach (used game mechanics are founded on the cognitivemodel and produce valid evidence of targeted competencies). 
+  This study is important as it shows evidence that the game-based assessment approach might work well in math education with respect to both cognitive and affective outcomes. It is a step forward on the education evolution, as it showed to be more appealing to the students, improving their concetration and engagement during tests performance (the flow state provides this abilities) while reducing test anxiety.
+ <p></p>
   
 <p> In de la Barrera et al. (2021) study, the researchers used gamified intervention in hopes to improve the emotional intelligence and self-esteem of teenagers. For this purpose they created a spaceship themed game in accordance with Mayer and Salovey's model of emotional intelligence. Over 200 adolescents aged 11-15 years participated in randomized control trials that lasted for over a month. Before and after the intervention, the students also filled out questionnaires estimating their emotional intelligence, self-esteem, affect balance, prosocial behavior, emotional, behavioral or peer difficulties and anxiety, depression, and stress. In the end, the results showed that adolescents' self-esteem and behavioral problems did improve, while their emotional intelligence did not. 
  </p>
