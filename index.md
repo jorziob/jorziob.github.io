@@ -138,22 +138,6 @@ The aim of this meta analysis is to study the effectiveness of gamified interven
 [comment]: # (Little hack to insert space between the current and next element)
 <div class="spaceBetween"></div>
 
-[comment]: # (Box and Button to download the pdf. change example.pdf to the real name when you are finished. e.g. short-review-lastname-firstname.pdf)
-<div class="downloadContainer">
-<b>Download short review</b> 
-<a href="example.pdf">
-<button class="downloadbutton"> <b>Download PDF</b></button>
-</a>
-</div>
-
-[comment]: # (Little hack to insert space between the current and next element)
-<div class="spaceBetween"></div>
-
-[comment]: # (Header of a section with a horizontal line)
-<div class="sectionHeader">
-  READ SHORT REVIEW ONLINE
-  <div class="horizontalLine"> </div>
-</div>
 
 [comment]: # (Text Box of a section)
 <div class="sectionTextBox">
