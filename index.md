@@ -327,11 +327,12 @@ The results of this meta-analytic review does bear some weight for nearly everyo
 [comment]: # (Text Box of a section)
 <div class="sectionTextBox">
 <div class="sectionText">
-<b>Study example</b>
+
   <p></p>
 </div>
 <div class="sectionText">
   <b>Individual studies examples:</b>
+    <p></p>
   Rita Fontes: <b>Evaluating Cognitive and Affective Outcomes of a Digital Game-Based Math Test</b>
 <p></p>
     In Kiili & Ketamo (2018) study, a game-based Math Test assessed the students conceptual fraction knowledge. The aim of this study was to investigate the differences between game-based and paper-based tests regarding cognitive outcomes and affective outcomes (flow,anxiety). 51 Finnish 6th graders completed both paper-based and game-based math tests.
